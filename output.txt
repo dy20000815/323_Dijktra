@@ -1,0 +1,128 @@
+SoruceNode: 1
+The path from 1to 1: 1: cost= 0
+SoruceNode: 1
+The path from 1to 2: 2 <- 1: cost= 9
+SoruceNode: 1
+The path from 1to 3: 3 <- 1: cost= 5
+SoruceNode: 1
+The path from 1to 4: 4 <- 3 <- 1: cost= 10
+SoruceNode: 1
+The path from 1to 5: 5 <- 4 <- 3 <- 1: cost= 18
+SoruceNode: 1
+The path from 1to 6: 6 <- 4 <- 3 <- 1: cost= 13
+SoruceNode: 1
+The path from 1to 7: 7 <- 8 <- 2 <- 1: cost= 13
+SoruceNode: 1
+The path from 1to 8: 8 <- 2 <- 1: cost= 11
+SoruceNode: 2
+The path from 2to 1: 1 <- 8 <- 2: cost= 8
+SoruceNode: 2
+The path from 2to 2: 2: cost= 0
+SoruceNode: 2
+The path from 2to 3: 3 <- 1 <- 8 <- 2: cost= 13
+SoruceNode: 2
+The path from 2to 4: 4 <- 7 <- 8 <- 2: cost= 8
+SoruceNode: 2
+The path from 2to 5: 5 <- 4 <- 7 <- 8 <- 2: cost= 16
+SoruceNode: 2
+The path from 2to 6: 6 <- 7 <- 8 <- 2: cost= 7
+SoruceNode: 2
+The path from 2to 7: 7 <- 8 <- 2: cost= 4
+SoruceNode: 2
+The path from 2to 8: 8 <- 2: cost= 2
+SoruceNode: 3
+The path from 3to 1: 1 <- 6 <- 4 <- 3: cost= 14
+SoruceNode: 3
+The path from 3to 2: 2 <- 3: cost= 7
+SoruceNode: 3
+The path from 3to 3: 3: cost= 0
+SoruceNode: 3
+The path from 3to 4: 4 <- 3: cost= 5
+SoruceNode: 3
+The path from 3to 5: 5 <- 4 <- 3: cost= 13
+SoruceNode: 3
+The path from 3to 6: 6 <- 4 <- 3: cost= 8
+SoruceNode: 3
+The path from 3to 7: 7 <- 8 <- 3: cost= 11
+SoruceNode: 3
+The path from 3to 8: 8 <- 3: cost= 9
+SoruceNode: 4
+The path from 4to 1: 1 <- 6 <- 4: cost= 9
+SoruceNode: 4
+The path from 4to 2: 2 <- 1 <- 6 <- 4: cost= 18
+SoruceNode: 4
+The path from 4to 3: 3 <- 1 <- 6 <- 4: cost= 14
+SoruceNode: 4
+The path from 4to 4: 4: cost= 0
+SoruceNode: 4
+The path from 4to 5: 5 <- 4: cost= 8
+SoruceNode: 4
+The path from 4to 6: 6 <- 4: cost= 3
+SoruceNode: 4
+The path from 4to 7: 7 <- 6 <- 4: cost= 7
+SoruceNode: 4
+The path from 4to 8: 8 <- 2 <- 1 <- 6 <- 4: cost= 20
+SoruceNode: 5
+The path from 5to 1: 1 <- 6 <- 5: cost= 20
+SoruceNode: 5
+The path from 5to 2: 2 <- 1 <- 6 <- 5: cost= 29
+SoruceNode: 5
+The path from 5to 3: 3 <- 1 <- 6 <- 5: cost= 25
+SoruceNode: 5
+The path from 5to 4: 4 <- 7 <- 6 <- 5: cost= 22
+SoruceNode: 5
+The path from 5to 5: 5: cost= 0
+SoruceNode: 5
+The path from 5to 6: 6 <- 5: cost= 14
+SoruceNode: 5
+The path from 5to 7: 7 <- 6 <- 5: cost= 18
+SoruceNode: 5
+The path from 5to 8: 8 <- 2 <- 1 <- 6 <- 5: cost= 31
+SoruceNode: 6
+The path from 6to 1: 1 <- 6: cost= 6
+SoruceNode: 6
+The path from 6to 2: 2 <- 1 <- 6: cost= 15
+SoruceNode: 6
+The path from 6to 3: 3 <- 1 <- 6: cost= 11
+SoruceNode: 6
+The path from 6to 4: 4 <- 7 <- 6: cost= 8
+SoruceNode: 6
+The path from 6to 5: 5 <- 4 <- 7 <- 6: cost= 16
+SoruceNode: 6
+The path from 6to 6: 6: cost= 0
+SoruceNode: 6
+The path from 6to 7: 7 <- 6: cost= 4
+SoruceNode: 6
+The path from 6to 8: 8 <- 2 <- 1 <- 6: cost= 17
+SoruceNode: 7
+The path from 7to 1: 1 <- 6 <- 7: cost= 9
+SoruceNode: 7
+The path from 7to 2: 2 <- 1 <- 6 <- 7: cost= 18
+SoruceNode: 7
+The path from 7to 3: 3 <- 1 <- 6 <- 7: cost= 14
+SoruceNode: 7
+The path from 7to 4: 4 <- 7: cost= 4
+SoruceNode: 7
+The path from 7to 5: 5 <- 4 <- 7: cost= 12
+SoruceNode: 7
+The path from 7to 6: 6 <- 7: cost= 3
+SoruceNode: 7
+The path from 7to 7: 7: cost= 0
+SoruceNode: 7
+The path from 7to 8: 8 <- 2 <- 1 <- 6 <- 7: cost= 20
+SoruceNode: 8
+The path from 8to 1: 1 <- 8: cost= 6
+SoruceNode: 8
+The path from 8to 2: 2 <- 1 <- 8: cost= 15
+SoruceNode: 8
+The path from 8to 3: 3 <- 1 <- 8: cost= 11
+SoruceNode: 8
+The path from 8to 4: 4 <- 7 <- 8: cost= 6
+SoruceNode: 8
+The path from 8to 5: 5 <- 4 <- 7 <- 8: cost= 14
+SoruceNode: 8
+The path from 8to 6: 6 <- 7 <- 8: cost= 5
+SoruceNode: 8
+The path from 8to 7: 7 <- 8: cost= 2
+SoruceNode: 8
+The path from 8to 8: 8: cost= 0
